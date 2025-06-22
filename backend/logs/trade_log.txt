@@ -1,0 +1,2 @@
+2025-04-03 21:26:28.639647 - 注文エラー: {'code': -1102, 'msg': "Mandatory parameter 'symbol' was not sent, was empty/null, or malformed."}
+2025-04-03 21:29:00.836119 - 注文データ: {"symbol": "BTCUSDT", "side": "BUY", "amount": 0.01, "price": 82557.03}
