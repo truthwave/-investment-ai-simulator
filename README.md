@@ -1,11 +1,11 @@
-#Stock Price Simulation & Automated Investment Strategy App
+# Stock Price Simulation & Automated Investment Strategy App
 
-##📌 Overview
+## 📌 Overview
 This Python-based app automatically determines optimal weekly investment strategies using AI and simulates stock trades for S&P 500 and Nikkei 225 constituents. It also sends email notifications for trade signals and delivers weekly investment performance reports. The stock symbol lists are automatically scraped and updated monthly from Wikipedia.
 
 ⚠️ Disclaimer: This app is intended for educational and technical demonstration purposes only. It does not provide financial or investment advice.
 
-##⚙️ Key Features
+## ⚙️ Key Features
 📈 Stock Price Simulation
 AI determines weekly buy/sell conditions and runs investment simulations.
 
@@ -21,7 +21,7 @@ Automatically scrapes and updates S&P 500 and Nikkei 225 stock lists monthly.
 💡 Strategy Optimization
 Rebuilds and fine-tunes investment strategies every week using AI.
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 Python 3.x
 
 pandas, scikit-learn (data analysis & AI modeling)
@@ -34,8 +34,8 @@ smtplib, email (email notifications & reports)
 
 matplotlib (data visualization)
 
-🚀 How to Run
-bash
+## 🚀 How to Run
+```bash
 コードをコピーする
 git clone https://github.com/your-username/stock-simulation-app.git
 cd stock-simulation-app
@@ -57,6 +57,7 @@ Email notification systems
 Data visualization and reporting
 
 Python development
+```
 
 
 
