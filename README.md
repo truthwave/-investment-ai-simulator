@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="段落テキスト (1).png" alt="株価シミュレーションアプリ" width="100%">
+<img width="997" height="670" alt="段落テキスト (1)" src="https://github.com/user-attachments/assets/838abee6-dab2-4826-94ae-dfaf111d4dde" />
 </p>
+
 
 # 株価シミュレーション & 自動投資戦略アプリ
 
