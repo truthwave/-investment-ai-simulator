@@ -33,6 +33,7 @@
 
 ---
 ## 📥 メール通知画像
+<img width="943" height="1013" alt="ダッシュボード画面" src="https://github.com/user-attachments/assets/86cbaf08-919c-462c-8481-18e7075eb1af" />
 
 
 ## 🚀 実行方法
