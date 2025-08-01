@@ -33,11 +33,12 @@
 
 ---
 ## 📥 メール通知画像
-<img width="943" height="1013" alt="ダッシュボード画面" src="https://github.com/user-attachments/assets/86cbaf08-919c-462c-8481-18e7075eb1af" />
+![IMG_7602](https://github.com/user-attachments/assets/51277f69-2d4d-426f-a78e-ab2bcad8acfe)
 
 
 ## 🚀 実行方法
 ```bash
+
 git clone https://github.com/your-username/stock-simulation-app.git
 cd stock-simulation-app
 pip install -r requirements.txt
