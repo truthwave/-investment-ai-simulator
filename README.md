@@ -43,7 +43,7 @@ git clone https://github.com/your-username/stock-simulation-app.git
 cd stock-simulation-app
 pip install -r requirements.txt
 python main.py
-
+```
 ⚠️ 注意事項
 実データは含めておらず、APIキーや個人メールアドレス情報は除外しています。
 
