@@ -1,5 +1,6 @@
 <p align="center">
-<img width="997" height="670" alt="段落テキスト (1)" src="https://github.com/user-attachments/assets/838abee6-dab2-4826-94ae-dfaf111d4dde" />
+<img width="1280" height="670" alt="段落テキスト (1)" src="https://github.com/user-attachments/assets/948eeef3-94e2-4a3a-9afc-aaaa1a659532" />
+
 </p>
 
 
