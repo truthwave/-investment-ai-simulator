@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="1003" height="670" alt="AI投資戦略シミュレーター" src="https://github.com/user-attachments/assets/39eef233-4896-4e52-bb2d-0e68ad14c43f" />
+<img width="996" height="670" alt="段落テキスト" src="https://github.com/user-attachments/assets/1f09bdca-b973-4f56-aa5d-38c62e811069" />
+
 </p>
 
 <h1 align="center">📊 株価シミュレーション × 自動投資戦略アプリ</h1>
