@@ -87,7 +87,7 @@ python main.py
 
 ## 🧑‍💻 作者
 
-**[ともプログラム便り](https://github.com/TomoProgrammingDayori)**
+**[ともAI便り](https://github.com/TomoAIDayori)**
 ポートフォリオやAIツール開発に関する情報も発信中です。ぜひご覧ください！
 
 ## お気軽にご連絡ください
