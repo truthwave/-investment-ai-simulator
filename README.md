@@ -87,7 +87,7 @@ python main.py
 
 ## 🧑‍💻 作者
 
-**[ともAI便り](https://github.com/TomoAIDayori)**
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 ポートフォリオやAIツール開発に関する情報も発信中です。ぜひご覧ください！
 
 ## お気軽にご連絡ください
