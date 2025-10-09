@@ -1,88 +1,73 @@
-# Stock Price Simulation & Automated Investment Strategy App
+<h1 align="center">📊 Stock Price Simulation × Automated Investment Strategy App</h1>
 
-> **“Experiment with AI-powered investing — without risking real money!”**
-
----
-
-## 📌 Overview
-
-This Python-based app simulates stock trading and automatically builds weekly investment strategies using AI.  
-It targets the **S&P 500 and Nikkei 225 stocks**, helping users explore how AI might manage investments.  
-
-Features include email notifications for buy/sell signals and weekly reports summarizing simulated portfolio results.  
-**Stock lists update automatically each month** by scraping data from Wikipedia.
-
-Ideal for:
-
-- AI and finance enthusiasts
-- Developers exploring financial modeling
-- Students studying algorithmic trading
-- Anyone curious about data-driven investment strategies
+<p align="center"><i>Trade weekly based solely on rules. Zero hesitation.</i></p>
 
 ---
 
-⚠️ **Disclaimer**  
-- This app is for **educational and technical demonstration purposes only**.  
-- It does **not** provide financial or investment advice.  
-- Real trading decisions should be made at your own risk.
+## Experience (Three features are sufficient)
+
+- **Automatically generates strategies**: Targets S&P 500 / Nikkei Average, **reconstructs** rules weekly for virtual trading
+- **Operates via notifications**: Trading opportunities are **email notifications**. Weekly **profit/loss reports** are automatically sent
+- **Constantly updates stocks**: Constituent stocks are **automatically retrieved monthly** (Execute with recent cash when failing)
+> The goal is “consistency.” Leave judgment to rules, discard emotion.
 
 ---
 
-## ⚙️ Key Features
+## Before → After
 
-- 📈 **Stock Price Simulation**  
-  Simulates weekly stock price movements using historical data and statistical methods.
-
-- 🧠 **AI-Driven Strategy Updates**  
-  Rebuilds and optimizes trading strategies every week, deciding when to buy, hold, or sell.
-
-- 📧 **Notification System**  
-  Sends email alerts when the AI triggers buy or sell signals.
-
-- 📝 **Weekly Reporting**  
-  Delivers performance summaries via email so users can track how virtual investments perform over time.
-
-- 🔄 **Automated Stock List Updates**  
-  Scrapes and updates S&P 500 and Nikkei 225 stock symbols from Wikipedia monthly.
-
-- 💡 **Skill Development**  
-  Great for practicing:
-  - AI financial modeling
-  - Data scraping and automation
-  - Email notification systems
-  - Data visualization and reporting
+- **Manual selection/recording**: 90 minutes/week → **10 minutes**
+- **Hesitation in trade decisions**: “Probably” → **Rules**
+- **Results review**: Spreadsheet → **Automatic report**
+> ※ This tool is for learning and technical demonstration. It is not investment advice.
 
 ---
 
-## 🛠 Tech Stack
+## Assumptions and Constraints (Only the important ones)
 
-- Python 3.x
-- pandas, scikit-learn (data analysis & AI)
-- yfinance (stock data fetching)
-- BeautifulSoup4 (web scraping)
-- smtplib, email (notifications & reports)
-- matplotlib (data visualization)
+- **Data**: Uses yfinance closing prices, etc. (Possible delays/gaps)
+- **Stock list**: Scraped monthly from Wikipedia. Falls back to recent cache if scraping fails
+- **Strategy**: Weekly **hypothesis updates**. Past optimization does not guarantee future profits
+- **Purpose: Learning/testing**. Actual trading requires independent judgment and responsibility
 
 ---
 
-## 🚀 How to Run
+## What's Included (Key Points Only)
 
-```bash
-git clone https://github.com/your-username/stock-simulation-app.git
-cd stock-simulation-app
-pip install -r requirements.txt
-python main.py
-```
+- **Simulator**: Weekly virtual trades / Aggregates P&L and win rate
+- **Notifications**: Sends trade signals/weekly reports via smtplib
+- **Updates**: Retrieves stocks with BeautifulSoup4 → Uses cache if fails
+- **Visualization**: Plots performance with matplotlib
+- **Learning**: Reconstructs features/rules using pandas / scikit-learn
 
-## 🔮 Future Plans
-- Support for other markets beyond S&P 500 and Nikkei 225
+---
 
-- More advanced AI algorithms for strategy development
+## 📬 Email Notification Example
 
-- Interactive dashboards for deeper analysis
+When a trading opportunity arises, you'll automatically receive an email notification:
 
-- Cloud deployment for easier access
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51277f69-2d4d-426f-a78e-ab2bcad8acfe" width="500" />
+</p>
 
-“Test your investment ideas safely — let AI show you what’s possible.”
+---
 
+## License
 
+MIT License
+
+---
+
+## 🧑‍💻 Author
+
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+We also share information about portfolios and AI tool development. Please take a look!
+
+## Feel Free to Contact Me
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+
+---
+
+## 🏁 In Closing
+
+> **Add, and you waver. Subtract, and you grow stronger.**
+> Investing isn't about “how you feel,” but “how you repeat.”
