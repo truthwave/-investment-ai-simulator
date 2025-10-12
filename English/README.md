@@ -3,8 +3,7 @@
 <p align="center"><i>Trade weekly based solely on rules. Zero hesitation.</i></p>
 
 <p align="center">
-<img width="1280" height="670" alt="投資×AI" src="https://github.com/user-attachments/assets/cc9f48d2-a329-44da-9a5b-36cc47a64395" />
-
+<img width="1001" height="670" alt="投資×AI" src="https://github.com/user-attachments/assets/b2055b98-abf7-4114-bac3-c54d6f8c4b10" />
 </p>
 
 ---
