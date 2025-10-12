@@ -2,6 +2,11 @@
 
 <p align="center"><i>Trade weekly based solely on rules. Zero hesitation.</i></p>
 
+<p align="center">
+<img width="1280" height="670" alt="投資×AI" src="https://github.com/user-attachments/assets/cc9f48d2-a329-44da-9a5b-36cc47a64395" />
+
+</p>
+
 ---
 
 ## Experience (Three features are sufficient)
