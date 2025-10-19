@@ -3,8 +3,7 @@
 <p align="center"><i>毎週、ルールだけで売買する。迷いは、ゼロ。</i></p>
 
 <p align="center">
-<img width="996" height="670" alt="段落テキスト" src="https://github.com/user-attachments/assets/1f09bdca-b973-4f56-aa5d-38c62e811069" />
-
+<img width="1536" height="1024" alt="投資 (1)" src="https://github.com/user-attachments/assets/df462e40-d727-4548-89cf-5a69351b2c15" />
 </p>
 
 ---
