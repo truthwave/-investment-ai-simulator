@@ -1,3 +1,5 @@
+### [English](https://github.com/truthwave/-investment-ai-simulator/tree/main/English)
+
 <h1 align="center">📊 株価シミュレーション × 自動投資戦略アプリ</h1>
 
 <p align="center"><i>毎週、ルールだけで売買する。迷いは、ゼロ。</i></p>
