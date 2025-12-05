@@ -1,4 +1,4 @@
-### [English](https://github.com/truthwave/-investment-ai-simulator/tree/main/English)
+### [→English](https://github.com/truthwave/-investment-ai-simulator/tree/main/English)
 
 <h1 align="center">📊 株価シミュレーション × 自動投資戦略アプリ</h1>
 
